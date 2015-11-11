@@ -15,6 +15,18 @@ a newline separated list of domains belonging to the conglomerate.
 
 It's github, just file a pull request!
 
+# How to find out
+
+This is the fun part! We all need to coopearate in order to find out using various techniques, for instance monitoring the DNS queries going out of your home and office, or running rDNS queries on company IP ranges.
+
+Please share your experience, how-to guides and scripts with us here.
+
+# FAQ
+
+> How about a list of IPs?
+
+IPs are another ball of wax. However IP lists are available here https://www.iblocklist.com/lists.php in the form of ranged ip notation that is somehow more complex to parse. The fastest open source parser for those is in portable C++ inside Peerguardian http://sourceforge.net/projects/peerguardian
+
 # Contact
 
 Come over on irc.dyne.org channel #dyne
