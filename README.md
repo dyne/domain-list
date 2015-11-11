@@ -1,9 +1,10 @@
 # Domain list
 
-A crowdsourced (open to contributions!) list of domains (including CDN domains) belonging to big Internet silos i.e. Facebook, Amazon, Adobe etc.
+A crowdsourced (open to contributions!) list of domains (including CDN domains) belonging to Internet commercial silos i.e. Facebook, Amazon, Adobe etc. but also to indie organizations and groups.
 
 This list is useful for any application willing to filter, block or just recognize DNS queries to the expanding empires of big companies which nowadays accept connections via a variety of hostnames rather than just a domain, be it for CDN/round-robin operations, to distribute load or to deceive clients.
 
+Oh and BTW  
 # Organization
 
 The list is organized in files: each file has the name of the conglomerate (i.e. "facebook") and the file contains a newline separated list of domains belonging to the conglomerate.
