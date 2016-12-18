@@ -26,7 +26,7 @@ Here a list of efforts similar efforts maintained on git:
 
 - https://github.com/StevenBlack/hosts
 - https://github.com/vokins/yhosts
-- https://github.com/highsea/Hosts/blob/master/hosts
+- https://github.com/highsea/Hosts
 - https://github.com/txthinking/google-hosts
 - https://github.com/superliaoyong/hosts
 - https://github.com/babylon882004/hosts
@@ -35,6 +35,21 @@ Here below efforts that map domains to ipv6 addresses:
 
 - https://github.com/lennylxx/ipv6-hosts
 - https://github.com/popcorner/cernet-ipv6-hosts
+
+## Help keep an archive backup
+
+Projects like the ones above may or may not be maintained on the long term. Sometimes they disappear or are even taken down on request of providers and companies. To facilitate the backup of these repositories, they are included as submodules and they can all be downloaded locally with the commands:
+
+```
+git submodule init
+git submodule update
+```
+
+To update the local archive with upstream, the command is:
+
+```
+git submodule foreach git pull --rebase
+```
 
 # FAQ
 
