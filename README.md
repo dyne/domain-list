@@ -18,6 +18,24 @@ This is the fun part! We all need to coopearate in order to find out using vario
 
 Please share your experience, how-to guides and scripts with us here.
 
+# Similar projects maintained with git
+
+Just searching `hosts block domains` is possible to find out lists occasionally collected and published by people on the interwebz. Yet all this misses a systematic effort to maintain and update lists, which can well be facilitated using a public git repository. Most of these lists are made to either block or to correctly resolve the domains from countries where the services are blocked by ISPs.
+
+Here a list of efforts similar efforts maintained on git:
+
+- https://github.com/StevenBlack/hosts
+- https://github.com/vokins/yhosts
+- https://github.com/highsea/Hosts/blob/master/hosts
+- https://github.com/txthinking/google-hosts
+- https://github.com/superliaoyong/hosts
+- https://github.com/babylon882004/hosts
+
+Here below efforts that map domains to ipv6 addresses:
+
+- https://github.com/lennylxx/ipv6-hosts
+- https://github.com/popcorner/cernet-ipv6-hosts
+
 # FAQ
 
 > How about a list of IPs?
